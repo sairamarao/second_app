@@ -11,4 +11,6 @@
  *= require_self
  *= require_tree .
 */
-
+body{
+background-color:aqua;
+}
